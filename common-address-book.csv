@@ -1,12 +1,21 @@
 ﻿address,name,chainId
 0x0954906da0Bf32d5479e25f46056d22f08464cab,INDEX Token,1
-0x9467cfADC9DE245010dF95Ec6a585A506A8ad5FC,Index Coop Treasury Multisig,1
-0x10F87409E405c5e44e581A4C3F2eECF36AAf1f92,Index Coop Operations Multisig,1
-0x68170278804Fc18481aECfB497D63A9b11DC692F,Index Coop Staging MultiSig,1
-0x66a7d781828B03Ee1Ae678Cd3Fe2D595ba3B6000,Index Methodologist Vesting,1
-0xe2250424378b6a6dC912f5714cfd308a8D593986,Index Coop Treasury Committee,1
+0x9467cfadc9de245010df95ec6a585a506a8ad5fc,Index Coop Community Treasury Multisig,1
+0x10F87409E405c5e44e581A4C3F2eECF36AAf1f92,Set Labs IC Operations Multisig,1
+0xe2250424378b6a6dC912f5714cfd308a8D593986,Index Coop Funding Council,1
+0x66a7d781828B03Ee1Ae678Cd3Fe2D595ba3B6000,Index Methodologist Bounty (18 months),1
+0x26e316f5b3819264DF013Ccf47989Fb8C891b088,Community Treasury Year 1 Vesting,1
+0xd89C642e52bD9c72bCC0778bCf4dE307cc48e75A,Community Treasury Year 2 Vesting,1
+0x71F2b246F270c6AF49e2e514cA9F362B491Fbbe1,Community Treasury Year 3 Vesting,1
+0xf64d061106054Fe63B0Aca68916266182E77e9bc,Set Labs Year 1 Vesting,1
+0x4c11dfd35a4fe079b41d5d9729ed34c00d487712,Set Labs Year 2 Vesting,1
+0x0D627ca04A97219F182DaB0Dc2a23FB4a5B02A9D,Set Labs Year 3 Vesting,1
+0x5C29Aa6761803BcFDA7f683eaa0ff9bdDDA3649D,DeFi Pulse Year 1 Vesting,1
+0xCe3c6312385fCF233aB0De574b0cB1A588566C3f,DeFi Pulse Year 2 Vesting,1
+0x0f58793e8CF39D6b60919FFaf773A7f95A568146,DeFi Pulse Year 3 Vesting,1
 0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b,DPI Token (Production),1
 0x72e364f2abdc788b7e918bc238b21f109cd634d7,MVI Token (Production),1
 0x2aF1dF3AB0ab157e1E2Ad8F88A7D04fbea0c7dc6,BED Token (Production),1
+0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1,DATA Token (Production),1
 0x0b498ff89709d3838a063f1dfa463091f9801c2b,BTC-FLI Token (Production),1
 0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd,ETH-FLI Token (Production),1
