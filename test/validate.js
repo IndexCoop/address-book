@@ -4,9 +4,9 @@ const CSVFileValidator = require('csv-file-validator');
 const { readFileSync } = require('fs');
 const chalk = require('chalk');
 
-async function main(){
+async function main(fileName){
   let errored = false;
-  const file = readFileSync('./gnosis-safe-address-book.csv', 'utf-8');
+  const file = readFileSync(fileName, 'utf-8');
 
   const config = {
     isHeaderNameOptional: true,
@@ -50,9 +50,18 @@ async function main(){
   }
 }
 
-main()
-  .then(() => process.exit(0))
-  .then((error) => {
-    console.log(error)
-    process.exit(1)
+const fileNames = [
+'./common-address-book.csv',
+'./engineering-address-book.csv',
+'./methodologist-address-book.csv',
+'./working-group-address-book.csv',
+]
+
+fileNames.forEach((fileName) => {
+  main(fileName)
+    .then(() => process.exit(0))
+    .then((error) => {
+      console.log(error)
+      process.exit(1)
   })
+})
