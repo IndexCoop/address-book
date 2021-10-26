@@ -1,6 +1,7 @@
 ﻿address,name,chainId
 0x0954906da0Bf32d5479e25f46056d22f08464cab,INDEX Token,1
 0x9467cfadc9de245010df95ec6a585a506a8ad5fc,Index Coop Community Treasury Multisig,1
+0x0E2a1776355850a85559E8625143A8bAd517D003,Index Coop Community Treasury EOA Signer,1
 0x10F87409E405c5e44e581A4C3F2eECF36AAf1f92,Set Labs IC Operations Multisig,1
 0xe2250424378b6a6dC912f5714cfd308a8D593986,Index Coop Funding Council,1
 0x66a7d781828B03Ee1Ae678Cd3Fe2D595ba3B6000,Index Methodologist Bounty (18 months),1
